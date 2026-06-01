@@ -4,7 +4,7 @@ This repository contains the code and experimental pipeline for my thesis projec
 
 ## Project Overview
 
-Accurate carbohydrate estimation is important for people with diabetes, as carbohydrate intake directly affects blood glucose regulation and insulin dosing. Traditional food logging methods are often manual, time-consuming, and prone to error. This project explores whether computer vision models can estimate the carbohydrate content of meals directly from food images.
+Accurate carbohydrate estimation is important for people with diabetes, as carbohydrate intake directly affects blood glucose regulation and insulin dosing. However, manual carbohydrate estimation is often uncertain and prone to error, increasing the risk of inaccurate insulin dosing and unstable blood glucose levels. This project explores whether computer vision models can estimate the carbohydrate content of meals directly from food images.
 
 The project is based on the **Nutrition5K** dataset and compares several modelling approaches, including:
 
