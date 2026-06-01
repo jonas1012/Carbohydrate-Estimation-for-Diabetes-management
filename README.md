@@ -44,8 +44,6 @@ Due to dataset size and licensing considerations, the dataset itself is not incl
 
 ## Repository Structure
 
-## Repository Structure
-
 ```text
 Carbohydrate-Estimation-for-Diabetes-management/
 │
