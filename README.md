@@ -44,13 +44,42 @@ Due to dataset size and licensing considerations, the dataset itself is not incl
 
 ## Repository Structure
 
+## Repository Structure
+
 ```text
 Carbohydrate-Estimation-for-Diabetes-management/
 │
+├── Analysis of models/
+│   ├── Carbohydrate dish bucket analysis.ipynb
+│   ├── Heatmap Visualization.ipynb
+│   ├── Ingredient Analysis.ipynb
+│   ├── Mean baseline calculation.ipynb
+│   ├── Own dataset difference analysis.ipynb
+│   ├── PMAE calculation for select models.ipynb
+│   ├── Testing Model 22 ingredient estimator.ipynb
+│   └── Top 10 best and worst dishes analysis.ipynb
+│
 ├── Dataset/
-│   └── Placeholder for dataset-related files and instructions
+│   ├── Own dataset/
+│   ├── Splitting of dataset test.ipynb
+│   └── build_nutrition5k_dataset.ipynb
 │
-├── README.md
+├── Models/
+│   ├── Experimental Block 1/
+│   ├── Experimental Block 2/
+│   ├── Experimental Block 3/
+│   ├── Experimental Block 4/
+│   ├── Experimental Block 5/
+│   └── Experimental Block 6/
 │
-└── notebooks/
-    └── Model training and evaluation notebooks
+├── Prediction scripts on own dataset/
+│   ├── Model 22 prediction.ipynb
+│   ├── Model 24 prediction.ipynb
+│   ├── Model 3 V3 prediction.ipynb
+│   └── Model 3 V5 prediction.ipynb
+│
+├── AI performance on nutrition5k test set.xlsx
+├── AI performance on own dataset.xlsx
+├── Performance of models.xlsx
+├── TEHAI scorecard.xlsx
+└── README.md
